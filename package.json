@@ -1,12 +1,12 @@
 {
-  "baseUrl": "https://link.smithjw.me",
-  "private": true,
-  "scripts": {
-    "shorten": "netlify-shortener"
-  },
-  "author": "James Smith <james@smithjw.me> (https://smithjw.me)",
-  "license": "MIT",
-  "devDependencies": {
-    "netlify-shortener": "^1.0.4"
-  }
+    "baseUrl": "https://link.smithjw.me",
+    "private": true,
+    "scripts": {
+        "shorten": "netlify-shortener"
+    },
+    "author": "James Smith <james@smithjw.me> (https://smithjw.me)",
+    "license": "MIT",
+    "devDependencies": {
+        "netlify-shortener": "^1.0.4"
+    }
 }
